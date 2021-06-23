@@ -1,0 +1,15 @@
+INSERT INTO `items` (name, label, `limit`) VALUES
+	('bigmac', 'Big Mac', 100),
+	('doublecheese', 'Double cheese', 100),
+	('hamburger', 'Hamburger', 100),
+	('chicken_wrap', 'Wrap Poulet', 100),
+	('fish_wrap', 'Wrap Poissons', 100),
+	('sprite', 'Sprite', 100),
+	('energy', 'Energy Drink', 100),
+	('coca', 'Coca Cola', 100),
+	('capuccino', 'Capuccino', 100),
+  	('sundae', 'Sundae', 100),
+  	('donuts', 'Donuts', 100),
+	('brownie', 'Brownie', 100),
+  	('pomcompote', 'Pomme Pote', 100),
+;
